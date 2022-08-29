@@ -7,11 +7,6 @@ for laptop and tablet users.
 
 The cloned version is responsive as well.
 
-
-
-
-
-
 ## Authors
 
 - [@HemanthKumar-CN](https://github.com/HemanthKumar-CN)
